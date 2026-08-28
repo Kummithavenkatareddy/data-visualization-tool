@@ -1,0 +1,21 @@
+Date,Category,Region,Product,Sales,Profit,Units_Sold,Rating
+2026-01-05,Electronics,North,Laptop Pro,1200.50,300.00,5,4.8
+2026-01-08,Furniture,South,Ergonomic Chair,250.00,45.50,10,4.2
+2026-01-12,Electronics,East,Wireless Mouse,45.00,15.20,25,4.5
+2026-01-15,Office Supplies,West,Notebook Set,18.75,6.25,50,4.0
+2026-01-20,Electronics,North,4K Monitor,450.00,90.00,8,4.7
+2026-01-25,Furniture,North,Standing Desk,650.00,120.00,4,4.6
+2026-02-02,Office Supplies,East,Gel Pens 10-Pack,12.50,4.00,80,4.1
+2026-02-05,Electronics,South,Bluetooth Speaker,85.00,22.00,15,4.3
+2026-02-10,Furniture,West,Bookshelf,180.00,35.00,6,3.9
+2026-02-14,Electronics,East,USB-C Hub,35.00,12.00,30,4.4
+2026-02-18,Office Supplies,North,Desk Organizer,22.00,7.50,20,4.2
+2026-02-22,Furniture,South,Table Lamp,40.00,10.00,12,4.0
+2026-03-01,Electronics,West,Mechanical Keyboard,110.00,32.00,14,4.9
+2026-03-05,Office Supplies,South,Stapler Heavy Duty,15.00,5.00,18,3.8
+2026-03-10,Furniture,East,Office Sofa,890.00,150.00,2,4.7
+2026-03-15,Electronics,North,Webcam HD,75.00,20.00,22,4.3
+2026-03-20,Office Supplies,West,Printer Paper Box,35.00,8.00,40,4.6
+2026-03-25,Furniture,North,Executive Desk,950.00,210.00,3,4.8
+2026-03-28,Electronics,South,Noise-Canceling Headphones,199.99,50.00,11,4.7
+2026-03-30,Office Supplies,East,Whiteboard Marker Set,14.00,4.50,35,4.1
